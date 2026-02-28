@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>sayed yousf sadat</title>
+</head>
+<body>
+<table align="center" width="50%">
+<th bgcolor="ff320033" align="left" width="45%">
+	<center>
+		<img src="4.png" height="120" width="100" border="1">
+	</center>
+	<center>
+		<h1>sayed yousf sadat</h1>
+	</center>
+
+<font face="calibri light" size="8px"><u>contact</u></font>
+	<br>
+	<ul>
+		<li>Address <br>5th street timany</li>
+		<li>phone <br> +93 796997817</li>
+		<li>email <br>yousf4125@gmail.com</li>
+		
+		
+	</ul>
+
+	<font face="calibri light" size="8px"><u>skill highlights</u></font>
+	<br>-
++-	<ul>
+		<li>football</li>
+		<li>strong decision maker</li>
+		<li>creative design</li>
+		<li>complex problem solver</li>
+		
+	</ul>
+	<br>
+
+<font face="calibri light" size="8px"><u>programming </u></font>
+	<br>
+	<ul>
+		<li>c++</li>
+		<li>html</li>
+		
+		
+	</ul>
+<font face="calibri light" size="8px"><u>languages </u></font>
+	<br>
+	<ul>
+		<li>persian</li>
+		<li>English</li>
+		<li>Urdu</li>
+		
+		
+	</ul>
+
+
+
+	
+</th>
+
+<th align="left">
+
+<font face="calibri light" size="8px"><u>summary</u></font>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing <br> elit, sed do eiusmod
+tempor incididunt ut labore <br> et dolore magna aliqua. Ut enim ad minim veniam, <br>
+quis nostrud exercitation ullamco laboris <br> nisi ut aliquip ex ea commodo
+consequat.<br> Duis aute irure dolor in reprehenderit in<br> voluptate velit esse
+cillum dolore eu fugiat nulla<br> pariatur. Excepteur sint occaecat cupidatat<br> non
+proident, sunt in culpa qui<br> officia deserunt mollit anim id est laborum.</p>
+
+	<font face="calibri light" size="8px"><u>Experience</u></font>
+	<ul>
+		i do not have experience
+
+	</ul>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+	<font face="calibri light" size="8px"><u>Education</u></font>
+	<ul>
+		
+		graduate form high school <br>
+		three years course of mathematics <br>
+
+	</ul>
+
+
+
+
+
+
+</th>
+	
+</table>
+
+</body>
+</html>
